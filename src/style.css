@@ -90,6 +90,7 @@ main {
   display: flex;
   justify-content: space-around;
   margin-top: 30px;
+  font: #000;
 }
 
 .weather-forecast-date {
